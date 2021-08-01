@@ -10,8 +10,8 @@
 - [Add data sources](#add-data-sources)
 - [Run a query](#run-a-query)
 - [Export and import data](#export-and-import-data)
-  - [Export data to file](#export-data-to-file)
-  - [Import data from file](#import-data-from-file)
+  - [Export data to files](#export-data-to-files)
+  - [Import data from files](#import-data-from-files)
 - [Useful links](#useful-links)
   - [Video tutorial](#video-tutorial)
   - [Related topics](#related-topics)
@@ -110,7 +110,7 @@ Besides the console, you can run a query from scratch files and user files. To l
 
 DataGrip provides an engine to move data between databases in various formats. You can select a predefined format or create a custom one.
 
-### Export data to file<a id="export-data-to-file"></a>
+### Export data to files<a id="export-data-to-files"></a>
 
 1. On the **Database** pane, right-click a schema or a table and select **Export Data to File(s)**.
 2. In the **Export Data** dialog, provide the following required parameters:
@@ -122,7 +122,7 @@ DataGrip provides an engine to move data between databases in various formats. Y
 
 See [Export](https://www.jetbrains.com/help/datagrip/2021.2/export-data.html) to learn about other data export options (for example, using the data editor).
 
-### Import data from file<a id="import-data-from-file"></a>
+### Import data from files<a id="import-data-from-files"></a>
 
 1. On the **Database** pane, right-click a schema or a table and select **Import Data from File**.
 2. Browse for a file that contains delimiter-separated values and click **OK**.
