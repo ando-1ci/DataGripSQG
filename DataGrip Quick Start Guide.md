@@ -138,9 +138,9 @@ Now that you know DataGrip basics, watch the tutorial or look through the docume
 
 ### Video tutorial<a id="video-tutorial"></a>
 
-This [40-minute video tutorial](https://www.youtube.com/watch?v=U5SOD-eeK50) illustrates the most fundamental DataGrip features. The video is split up into chapters, which you can jump to by clicking timecodes in the video description.
+This [40-minute video tutorial](https://www.youtube.com/watch?v=U5SOD-eeK50&t=0s) illustrates the most fundamental DataGrip features. The video is split up into chapters, which you can jump to by clicking timecodes in the video description.
 
- <a href="https://www.youtube.com/watch?v=U5SOD-eeK50" rel="Video">![Video](./media1/video.png)</a>
+ <a href="https://www.youtube.com/watch?v=U5SOD-eeK50&t=0s" rel="Video">![Video](./media1/video.png)</a>
 
 ### Related topics<a id="related-topics"></a>
 
