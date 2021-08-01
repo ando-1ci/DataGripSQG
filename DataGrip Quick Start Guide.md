@@ -46,8 +46,7 @@ To customize the application appearance from the initial configuration wizard:
 2. Choose the following preferences:
     - Color theme
     - Accessibility options
-    - Keymap scheme
-
+    - Keymap scheme<br>
 ![Customize](./media1/customize.png)
 
 To learn more, see [IDE appearance](https://www.jetbrains.com/help/datagrip/2021.2/guided-tour-around-the-user-interface.html).
@@ -60,8 +59,7 @@ To create a project from the initial configuration wizard:
 
 1. On the left panel, click **Project**.
 2. Click **New project** and enter a name.
-3. Click **OK**.
-
+3. Click **OK**.<br>
 ![New project](./media1/project.png)
 
 ## Add data sources<a id="add-data-sources"></a>
@@ -78,7 +76,7 @@ JDBC drivers are not bundled with the installation package to reduce its size. T
 
 1. On the **Database** pane, click ![1](./media1/database.svg).
 2. At the bottom of the **General** tab, click **Download missing driver files**.
-3. Wait till the installation is over.
+3. Wait till the installation is over.<br>
 ![Download missing driver](./media1/downloaddriver.png)
 
 To learn more, see [Database connection](https://www.jetbrains.com/help/datagrip/2021.2/connecting-to-a-database.html).
@@ -118,7 +116,7 @@ DataGrip provides an engine to move data between databases in various formats. Y
     - **Extractor**. This defines the export file format, such as CSV, XLSX, or XML.
     - **Output file**. The path to the export file and its name.
 3. Optionally, select **Transpose**. In the transposed view, the rows and columns in the export file will be interchanged.
-4. Click **Export to File**.
+4. Click **Export to File**.<br>
 ![Export Data](./media1/exportdata.png)
 
 See [Export](https://www.jetbrains.com/help/datagrip/2021.2/export-data.html) to learn about other data export options (for example, using the data editor).
@@ -128,7 +126,7 @@ See [Export](https://www.jetbrains.com/help/datagrip/2021.2/export-data.html) to
 1. On the **Database** pane, right-click a schema or a table and select **Import Data from File**.
 2. Browse for a file that contains delimiter-separated values and click **OK**.
 3. In the **Import File** dialog, select the data conversion parameters.
-4. Click **Import**.
+4. Click **Import**.<br>
 ![Import Data](./media1/importdata.png)
 
 See [Import](https://www.jetbrains.com/help/datagrip/2021.2/import-data.html) to learn about other data import options (for example, using a script file).
