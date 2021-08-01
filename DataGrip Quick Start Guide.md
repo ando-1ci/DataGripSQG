@@ -31,7 +31,7 @@ This guide aims to give you the first experience of the product. By following th
 
 ## First launch<a id="first-launch"></a>
 
-When you launch DataGrip for the first time, the initial configuration wizard opens, which has the following menus:
+When you launch DataGrip for the first time, the initial configuration wizard opens. It has the following menus:
 
 - **Projects**. [Create your first project](#create-a-project).
 - **Customize**. [Fine-tune the application appearance](#customize-the-appearance) to suit your personal preferences and special needs.
