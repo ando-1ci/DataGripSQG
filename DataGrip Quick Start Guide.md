@@ -18,7 +18,7 @@
 
 ## Introduction<a id="introduction"></a>
 
-DataGrip is a comprehensive database management solution. It is designed to query and manage local, server, and cloud databases. It supports the most popular database management systems.
+DataGrip is a comprehensive database management solution, which is designed to create, query, and manage local, server, and cloud databases. It supports the most popular database management systems.
 
 ![Supported DBMSs](./media1/supportedDBMS.png)
 
