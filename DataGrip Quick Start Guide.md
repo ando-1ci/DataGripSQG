@@ -47,6 +47,7 @@ To customize the application appearance from the initial configuration wizard:
     - Color theme
     - Accessibility options
     - Keymap scheme
+
 ![Customize](./media1/customize.png)
 
 To learn more, see [IDE appearance](https://www.jetbrains.com/help/datagrip/2021.2/guided-tour-around-the-user-interface.html).
@@ -60,6 +61,7 @@ To create a project from the initial configuration wizard:
 1. On the left panel, click **Project**.
 2. Click **New project** and enter a name.
 3. Click **OK**.
+
 ![New project](./media1/project.png)
 
 ## Add data sources<a id="add-data-sources"></a>
