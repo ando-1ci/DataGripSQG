@@ -76,7 +76,8 @@ JDBC drivers are not bundled with the installation package to reduce its size. T
 
 1. On the **Database** pane, click ![1](./media1/database.svg).
 2. At the bottom of the **General** tab, click **Download missing driver files**.
-3. Wait till the installation is over.<br>
+3. Wait till the installation is over.
+4. Click **OK** to close the dialog.<br>
 ![Download missing driver](./media1/downloaddriver.png)
 
 To learn more, see [Database connection](https://www.jetbrains.com/help/datagrip/2021.2/connecting-to-a-database.html).
