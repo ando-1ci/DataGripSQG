@@ -70,7 +70,7 @@ A project can contain a number of data sources. To add a data source:
 
 1. On the **Database** pane, click ![New](./media1/add.svg) and select **Data source from Path**.
 2. Browse for a database file, and double-click it, or select and click **OK**. You can add the sample [chinook.db](#sample) database or another available local database.
-3. Select a driver, and click **OK**.
+3. Select a driver, and click **OK**.<br>
 ![New Data Source](./media1/selectbd.png)
 4. In the **Data Sources and Drivers** dialog that opens, click **OK**.
 
