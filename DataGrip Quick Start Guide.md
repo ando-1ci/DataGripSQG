@@ -133,6 +133,8 @@ See [Import](https://www.jetbrains.com/help/datagrip/2021.2/import-data.html) to
 
 ## Useful links<a id="useful-links"></a>
 
+Now that you know DataGrip basics, watch the tutorial or look through the documentation to learn more and get the most of the solution.
+
 ### Video tutorial<a id="video-tutorial"></a>
 
 This [40-minute video tutorial](https://www.youtube.com/watch?v=U5SOD-eeK50) illustrates the most fundamental DataGrip features. The video is split up into chapters, which you can jump to by clicking timecodes in the video description.
