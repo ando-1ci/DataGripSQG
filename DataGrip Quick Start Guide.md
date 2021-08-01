@@ -48,7 +48,7 @@ To customize the application appearance from the initial configuration wizard:
     - Accessibility options
     - Keymap scheme
 
-![Customize](./media1/customize.png)
+    ![Customize](./media1/customize.png)
 
 To learn more, see [IDE appearance](https://www.jetbrains.com/help/datagrip/2021.2/guided-tour-around-the-user-interface.html).
 
