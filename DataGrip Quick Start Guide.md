@@ -116,7 +116,7 @@ DataGrip provides an engine to move data between databases in various formats. Y
 2. In the **Export Data** dialog, provide the following required parameters:
     - **Extractor**. This defines the export file format, such as CSV, XLSX, or XML.
     - **Output file**. The path to the export file and its name.
-3. Optionally, select **Transpose**. In the transposed view, the rows and columns in the export file will be interchanged.
+3. Optionally, select **Transpose**. In the transposed view, the rows and columns in the export file is interchanged.
 4. Click **Export to File**.<br>
 ![Export Data](./media1/exportdata.png)
 
