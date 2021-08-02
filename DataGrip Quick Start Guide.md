@@ -145,6 +145,6 @@ This [40-minute video tutorial](https://www.youtube.com/watch?v=U5SOD-eeK50&t=0s
 ### Related topics<a id="related-topics"></a>
 
 |To                             |See this                       |
-|-------------------------------|-------------------------------|
+|:------------------------------|:------------------------------|
 |Create data source connections    |[Database connections](https://www.jetbrains.com/help/datagrip/2021.2/connecting-to-a-database.html)|
 |Find and fix errors in your code|[Debugging](https://www.jetbrains.com/help/datagrip/2021.2/debugging-code.html)|
